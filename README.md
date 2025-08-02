@@ -11,13 +11,13 @@
 
 - 💼 I’m open to collaborating on software projects, website development, or any innovative ideas that align with my skills
 
-- 💬 Ask me about **front-End Development**
+- 💬 Ask me about "Front-End, Back-End, Project Management, Cloud, Networking, Website Development"
 
-- 📫 How to reach me **robsanyeabsra@gmail.com**
+- 📫 How to reach me "robsanyeabsra@gmail.com","0968286668","https://t.me/robina2721"
 
-- 📄 Know about my experiences [Front-end, Php](Front-end, Php)
+- 📄 Know about my experiences [Front-end,Html,Css,Javascript,React,Typescript(Back-end, Php,Node.js),(Database, Mysql,MongoDB)]
 
-- ⚡ Fun fact **I believe in continuous learning, and I enjoy solving real-world challenges through code. Whether it’s a website design, a complex software system, or a team project, I always bring enthusiasm and commitment to the table.**
+- ⚡ Fun fact "I believe in continuous learning, and I enjoy solving real-world challenges through code. Whether it’s a website design, a complex software system, or a team project, I always bring enthusiasm and commitment to the table."
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
